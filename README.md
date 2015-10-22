@@ -1,4 +1,4 @@
-# OpenWeatherMap Web Data Connector for Tableau 9.1+
+# OpenWeatherMap Web Data Connector
 
 Sign up for the [Weather API](http://openweathermap.org/api) before getting started.
 
